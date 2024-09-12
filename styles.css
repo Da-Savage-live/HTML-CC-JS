@@ -1,0 +1,59 @@
+body{
+    color: white;
+    background-color: aqua;
+    background-image: url('background.jfif'); 
+    background-attachment: fixed;
+}
+.box1{
+    background-color: rgb(233, 10, 10);
+    width: 600px;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    display: block;
+    padding-top: 30px;
+}
+.text1{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 40px;
+    display: inline-block;
+}
+img {
+    height: 50px;
+    width: auto;
+    image-resolution: 150px;
+    margin-right: auto;
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+.loanbox{
+    background-color: rgb(12, 52, 231);
+    
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.submit{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(253, 253, 253);
+    background-color: rgb(240, 31, 31);
+}
+.text2  {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(218, 207, 56);
+}
+.text3{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(218, 207, 56);
+}
+footer{
+    font-size: 30px;
+    color: rgb(24, 13, 13);
+}
